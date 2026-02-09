@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://i.imgur.com/QOO5b6J.gif](https://github.com/Girps/web102_prework/blob/main/WEB102.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src="WEB102.gif" alt="Sea Monster App Walkthrough" />
+https://i.imgur.com/QOO5b6J.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 <!-- Recommended tools:
@@ -32,7 +32,7 @@ GIF created with ScreenToGif
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-https://i.imgur.com/QOO5b6J.gif 
+
 
 ## Notes
 
