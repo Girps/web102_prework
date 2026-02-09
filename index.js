@@ -146,8 +146,8 @@ let unfundedCount = gameList.length;
 
 // create a string that explains the number of unfunded games using the ternary operator
 let displayStr = (unfundedCount === 1 ) ? 
-    `A total of $100,000 has been raised for 4 games. Currently ${unfundedCount.toLocaleString()} game remains unfunded. We need your help to fund these amazing games!`
-     : (unfundedCount > 1 ) ? (`A total of $100,000 has been raised for 4 games. Currently, ${unfundedCount} games remain unfunded. We need your help to fund these amazing games!`) : "All games have been funded!" ;  
+    `A total of $${totalPledged.toLocaleString()} has been raised for 4 games. Currently ${unfundedCount.toLocaleString()} game remains unfunded. We need your help to fund these amazing games!`
+     : (unfundedCount > 1 ) ? (`A total of $${totalPledged.toLocaleString()} has been raised for 4 games. Currently, ${unfundedCount} games remain unfunded. We need your help to fund these amazing games!`) : "All games have been funded!" ;  
 
 // create a new DOM element containing the template string and append it to the description container
 let divUnfunded = document.createElement("div");
