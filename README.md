@@ -32,6 +32,8 @@ GIF created with ScreenToGif
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+https://i.imgur.com/QOO5b6J.gif 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
