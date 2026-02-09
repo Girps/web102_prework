@@ -33,14 +33,14 @@ GIF created with ScreenToGif
 [peek](https://github.com/phw/peek) for Linux. -->
 
 https://i.imgur.com/QOO5b6J.gif 
-
+![alt text]https://i.imgur.com/QOO5b6J.gif
 ## Notes
 
 Describe any challenges encountered while building the app.
 N/A
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Jesse Jimenez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
